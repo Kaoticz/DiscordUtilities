@@ -1,0 +1,2 @@
+This repository contains some personal tools I made related to Discord. Most of them are incomplete, except for EmotePickerWinForm.  
+I did this mainly to learn about desktop UI applications. I may clean this up in the future.
