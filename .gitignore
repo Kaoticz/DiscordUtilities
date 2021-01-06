@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# My Stuff
+.DiscordEmoteResizer/
+.EmotePickerAvalonia/
+.EmoteResizerWinForm/
